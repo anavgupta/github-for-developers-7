@@ -7,5 +7,5 @@ The bio should include your
   * A request to add your bio. Use some markdown formatting to make it all look pretty.
   * Favorite color: White
   * Your Age.
-  * DOB
+  * DOB.
 
